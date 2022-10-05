@@ -3,7 +3,7 @@
 <h2 align="left">Welcome, i'm Vinicius Tanaka</h2>
 
 - Currently learning python and helping my friends
-- Also looking for a job
+- Also looking for a backend or fullstack job
 
 Email: viniciusbtanaka@hotmail.com
 <br/>
